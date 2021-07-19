@@ -150,7 +150,7 @@ At any point in the pull request process, code can be committed to the feature b
 
 ### Continuous Integration Pipeline
 
-The CI pipeline will run on your branch when it is pushed, or a when a pull request has been opened.
+The CI pipeline will run on your branch when it is pushed, or when a pull request has been opened.
 
 The current status of the pipeline can be viewed in the GitHub "actions" pane, or in the pull request itself:
 
